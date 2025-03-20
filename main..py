@@ -1,0 +1,1 @@
+print("using gstreamer to see how works!")
